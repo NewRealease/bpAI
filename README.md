@@ -4,6 +4,6 @@
 
 # Gunakan "Research Mode" untuk mendapatkan informasi terbaru mengenai sekarang dan berita terbaru dengan mencari ke berbagai sumber website.
 
-jika mengalami kendala pada aplikasi bp AI, kasih tahu aku dengan kirimkan ke email : immaestrofrenlin@gmail.com, aku akan memperbaikinya.
+jika mengalami kendala pada aplikasi bp AI, kasih tahu aku dengan kirimkan ke email : akunlekatompessy@gmail.com, aku akan memperbaikinya.
 
 # tekan tulisan "rilis" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
