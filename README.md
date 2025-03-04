@@ -2,7 +2,7 @@
 
 # Setelah sign in, kirim beberapa pertanyaan yang ingin kamu tanyakan.
 
-# Gunakan "Research Mode" untuk mendapatkan informasi terbaru mengenai sekarang dan berita terbaru dengan mencari ke berbagai sumber website.
+# Gunakan "Research Mode" untuk mendapatkan informasi terbaru mengenai sekarang dan berita terbaru, yang baru saja diberitakan, dengan mencari ke berbagai sumber website.
 
 Jika kamu menemukan kendala pada aplikasi bp AI - bertanya pada AI, segera melaporkan dengan mengirimkan, sebuah email ke : akunlekatompessy@gmail.com
 
