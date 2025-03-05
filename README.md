@@ -2,7 +2,7 @@
  
 # Selamat datang di aplikasi bp AI, dengan aplikasi bp AI, kamu bisa bertanya pada AI apa saja yang ingin kamu tanyakan, dan kirimkan tugas tugas mu dengan foto pada bp AI untuk mendapatkan jawaban.
 
-# Kelebihan aplikasi bp AI adalah (1) lebih canggih daripada aplikasi AI seperti Gemini AI, Deepseek AI, Grok AI, Meta AI dan aplikasi AI lainnya. (2) memberikan jawaban, yang jauh lebih akurat. (3) memberikan informasi dan berita terbaru yang baru saja diberitakan jauh lebih baik. (4) dapat dipakai selamanya tidak ada pembaruan aplikasi seperti aplikasi lainnya yang membutuhkan pembaruan. (5) yang pastinya gratis pemakaian selamanya tidak dikenakan biaya.
+# Kelebihan aplikasi bp AI adalah (1) Lebih canggih daripada aplikasi AI seperti Gemini AI, Deepseek AI, Grok AI, Meta AI dan aplikasi AI lainnya. (2) Mengetahui semua informasi terbaru dan berita terbaru yag baru saja diberitakan, mengetahui semua berita yang sedang diberitakan. (3) memberikan jawaban dengan jauh lebih baik dan akurat. (4) dapat dipakai selamanya tidak ada pembaruan aplikasi seperti aplikasi lainnya yang membutuhkan pembaruan. (5) yang pastinya gratis pemakaian selamanya tidak dikenakan biaya.
 
 # Setelah sign in, kirim beberapa pertanyaan yang ingin kamu tanyakan.
 
