@@ -1,4 +1,4 @@
-# Geser geser ke bawah untuk mengunduh 👇
+# Geser geser ke bawah untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
  
 # Selamat datang di aplikasi bp AI, dengan aplikasi bp AI, kamu bisa bertanya pada AI apa saja yang ingin kamu tanyakan, dan kirimkan tugas tugas mu dengan foto pada bp AI untuk mendapatkan jawaban.
 
