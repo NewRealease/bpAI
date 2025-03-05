@@ -2,7 +2,7 @@
  
 # Selamat datang di halaman untuk mengunduh aplikasi bp AI, dengan aplikasi bp AI, kamu bisa bertanya pada AI apa saja yang ingin kamu tanyakan, dan kirimkan tugas tugas mu dengan foto pada bp AI untuk mendapatkan jawaban.
 
-# Jangan lupa sebelum kamu mengirim pertanyaan dan tugas tugas mu, aktifkan "Research Mode", AI akan mencari tahu informasi terbaru ke berbagai sumber website untuk pertanyaan mu dan tugas tugas tugas mu.
+# Jangan lupa sebelum kamu mengirim pertanyaan dan tugas tugas mu, aktifkan "Research Mode", AI akan mencari tahu informasi terbaru ke berbagai sumber website untuk pertanyaan mu dan tugas tugas mu.
 
 # Login sangat mudah, cukup ketikkan nama email dan masukkan kode verifikasi yang dikirim ke email kamu, mencontoh cara login seperti WhatsApp yang memasukkan no telepon dan kode verifikasi. ( TIDAK RIBET RIBET )
 
