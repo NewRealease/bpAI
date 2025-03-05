@@ -8,6 +8,6 @@
 
 # Gunakan "Research Mode" untuk mendapatkan informasi terbaru mengenai sekarang dan berita terbaru, yang baru saja diberitakan, dengan mencari ke berbagai sumber website.
 
-Kontak email jika ingin bertanya tanya seputar aplikasi bp AI: akunlekatompessy@gmail.com
+" Kontak email jika ingin bertanya tanya seputar aplikasi bp AI: akunlekatompessy@gmail.com "
 
 # Tekan tulisan "rilis" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
