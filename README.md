@@ -8,4 +8,4 @@
 
 "Untuk pertanyaan atau masalah terkait aplikasi bp AI, silakan hubungi kami di: akunlekatompessy@gmail.com"
 
-# Tekan tulisan "rilis or release" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
+# Tekan tulisan 1.0 di bawah tulisan "release atau rilis" untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
