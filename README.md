@@ -6,6 +6,6 @@
 
 # Kelebihan aplikasi bp AI adalah (1) Aplikasi AI baru ini mampu menyaingi, lebih maju, dan lebih baik daripada aplikasi AI terkenal seperti Gemini AI, Deepseek AI, Grok AI, Meta AI, dan aplikasi AI lainnya di era persaingan AI, di mana setiap pembuat AI berlomba untuk menjadi yang terbaik. (2) mengetahui semua informasi terbaru dan berita terbaru yang baru saja diberitakan, mengetahui semua berita yang sedang diberitakan, dengan "Research Mode" (3) memberikan jawaban jauh lebih baik dan akurat, dengan "Research Mode" (4) dapat dipakai selamanya tidak ada pembaruan aplikasi seperti aplikasi lainnya yang membutuhkan pembaruan.
 
-" Kontak email jika ingin bertanya tanya atau kendala seputar aplikasi bp AI: akunlekatompessy@gmail.com "
+"Untuk pertanyaan atau masalah terkait aplikasi bp AI, silakan hubungi kami di: akunlekatompessy@gmail.com"
 
 # Tekan tulisan "rilis or release" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
