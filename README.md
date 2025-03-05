@@ -6,8 +6,8 @@
 
 # Login sangat mudah, cukup ketikkan nama email dan masukkan kode verifikasi yang dikirim ke email kamu, mencontoh cara login seperti WhatsApp yang memasukkan no telepon dan kode verifikasi. ( TIDAK RIBET RIBET )
 
-# Kelebihan aplikasi bp AI adalah (1) aplikasi AI ini baru tapi dapat menyaingi, lebih canggih, lebih baik, daripada aplikasi AI terkenal seperti Gemini AI, Deepseek AI, Grok AI, Meta AI dan aplikasi AI lainnya. (2) mengetahui semua informasi terbaru dan berita terbaru yang baru saja diberitakan, mengetahui semua berita yang sedang diberitakan, dengan "Research Mode" (3) memberikan jawaban jauh lebih baik dan akurat, dengan "Research Mode" (4) dapat dipakai selamanya tidak ada pembaruan aplikasi seperti aplikasi lainnya yang membutuhkan pembaruan.
+# Kelebihan aplikasi bp AI adalah (1) aplikasi AI ini baru tapi dapat menyaingi, lebih canggih, lebih baik, daripada aplikasi AI terkenal seperti Gemini AI, Deepseek AI, Grok AI, Meta AI dan aplikasi AI lainnya di era persaingan antar AI, yang berlomba lomba untuk menjadi yang terbaik. (2) mengetahui semua informasi terbaru dan berita terbaru yang baru saja diberitakan, mengetahui semua berita yang sedang diberitakan, dengan "Research Mode" (3) memberikan jawaban jauh lebih baik dan akurat, dengan "Research Mode" (4) dapat dipakai selamanya tidak ada pembaruan aplikasi seperti aplikasi lainnya yang membutuhkan pembaruan.
 
-" Kontak email jika ingin bertanya tanya seputar aplikasi bp AI: akunlekatompessy@gmail.com "
+" Kontak email jika ingin bertanya tanya atau kendala seputar aplikasi bp AI: akunlekatompessy@gmail.com "
 
-# Tekan tulisan "rilis" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
+# Tekan tulisan "rilis or release" di bawah ini untuk mengunduh aplikasi bp AI - bertanya pada AI 👇
